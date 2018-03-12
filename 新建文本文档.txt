@@ -1,0 +1,20 @@
+- title: github
+  icon: icon-github
+  link: https://github.com/PatrickShieh
+- title: email
+  icon: icon-email
+  link: mailto:fatsheeps@foxmail.com
+- title: rss
+  icon: icon-rss
+  link: /atom.xml
+
+# icon-email: 邮箱
+# icon-rss: rss
+# icon-in: linkedin
+# icon-twitter: twitter
+# icon-facebook: facebook
+# icon-github: github
+# icon-zhihu: 知乎
+# icon-douban: 豆瓣
+# icon-weibo: 微博
+# icon-telegram: telegram
