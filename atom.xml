@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://fatsheep.me/"/>
   <updated>2018-03-11T15:45:47.972Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://fatsheep.me/</id>
   
   <author>
     <name>PatrickShieh</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>me</title>
-    <link href="http://yoursite.com/2018/03/11/me/"/>
-    <id>http://yoursite.com/2018/03/11/me/</id>
+    <link href="http://fatsheep.me/2018/03/11/me/"/>
+    <id>http://fatsheep.me/2018/03/11/me/</id>
     <published>2018-03-11T15:45:47.000Z</published>
     <updated>2018-03-11T15:45:47.972Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/03/11/first/"/>
-    <id>http://yoursite.com/2018/03/11/first/</id>
+    <link href="http://fatsheep.me/2018/03/11/first/"/>
+    <id>http://fatsheep.me/2018/03/11/first/</id>
     <published>2018-03-10T19:21:19.751Z</published>
     <updated>2018-03-10T19:21:58.429Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/11/hello-world/"/>
-    <id>http://yoursite.com/2018/03/11/hello-world/</id>
+    <link href="http://fatsheep.me/2018/03/11/hello-world/"/>
+    <id>http://fatsheep.me/2018/03/11/hello-world/</id>
     <published>2018-03-10T19:09:58.624Z</published>
     <updated>2018-03-10T19:09:58.624Z</updated>
     
